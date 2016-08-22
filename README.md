@@ -4,6 +4,8 @@
 
 ### 1. 落户流程
 
+参考：[FirstJob官方说明1] (http://www.firstjob.com.cn/folder76/folder79/2016-07-22/2939.html) 和 [FirstJob官方说明2] (http://www.firstjob.com.cn/folder76/folder79/2016-07-22/2941.html)
+
 #### 1.1. 所需文件
 | 文件  | 简称  | 备注 |
 |:------------- |:---------------:| :-------------|
@@ -49,8 +51,6 @@
 
 与房东签合同时可注明甲方协助乙方进行社区公共户落户，如果在租期内房东要进行房屋买卖，乙方配合办理备案撤销。
 落户不是落到房东家，而是落到所在派出所对应社区公共户。
-### 3. 打分通过后流程
-参考：[FirstJob官方说明1] (http://www.firstjob.com.cn/folder76/folder79/2016-07-22/2939.html) 和 [FirstJob官方说明2] (http://www.firstjob.com.cn/folder76/folder79/2016-07-22/2941.html)
 
 #### 2.2. 户口迁移
 
